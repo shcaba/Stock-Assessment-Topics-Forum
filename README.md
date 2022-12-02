@@ -5,5 +5,5 @@ Click [here](https://docs.google.com/document/d/1qPgJdFM_IOAANuuro5RNsFezz2gkYh9
 
 I encourage you to post issues that we can discuss or use the Discussion Board to build on discussions we have already had.
 
-Any more ideas to make things better, please add the to the issues board or [email](jason.cope@noaa.gov) me.
+Want to join the email list, know someone who does, or have any ideas to make things better, please email me at: jason.cope@noaa.gov
 
